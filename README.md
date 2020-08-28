@@ -1,6 +1,6 @@
 # legit
 
-legit is a subset of the version control system Git written in Shell.
+legit is a subset of the version control system Git written in Shell. The legit repository is located in the .legit folder which is created using the command: ./legit-init
 
 USAGE
 
