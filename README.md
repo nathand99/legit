@@ -1,6 +1,6 @@
 # legit
 
-legit a subset of the version control system Git.
+legit is a subset of the version control system Git written in Shell.
 
 USAGE
 
